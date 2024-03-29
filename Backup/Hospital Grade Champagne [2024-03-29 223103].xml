@@ -808,8 +808,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="45.839829961704957" />
-											<RightTime Value="66.160170038295036" />
+											<LeftTime Value="0" />
+											<RightTime Value="375.63114134542707" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -1100,7 +1100,7 @@
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="22183" />
 								<LastSelectedTimeableIndex Value="0" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastSelectedClipEnvelopeIndex Value="1" />
 								<LastPresetRef>
 									<Value>
 										<AbletonDefaultPresetRef Id="0">
@@ -2131,7 +2131,7 @@
 										</Envelopes>
 										<ScrollerTimePreserver>
 											<LeftTime Value="0" />
-											<RightTime Value="20.320340076590078" />
+											<RightTime Value="376.91307634164781" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -3290,8 +3290,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="235.00000000000003" />
-											<RightTime Value="252.99999999999997" />
+											<LeftTime Value="121" />
+											<RightTime Value="139" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -3570,7 +3570,7 @@
 			<AudioTrack Id="16">
 				<LomId Value="0" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="true" />
+				<IsContentSelectedInDocument Value="false" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -4181,7 +4181,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="0" />
+						<SelectedEnvelope Value="1" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -4504,8 +4504,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="324" />
-											<RightTime Value="340" />
+											<LeftTime Value="124" />
+											<RightTime Value="140" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -7635,7 +7635,7 @@
 			<AudioTrack Id="19">
 				<LomId Value="0" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="false" />
+				<IsContentSelectedInDocument Value="true" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -8669,7 +8669,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="1" />
+						<SelectedEnvelope Value="0" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -11731,7 +11731,7 @@
 			<LoopStart Value="8" />
 			<LoopLength Value="376" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="332" />
+			<CurrentTime Value="367.77021919879064" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -11756,14 +11756,14 @@
 		<InKey Value="true" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="332" />
-			<OtherTime Value="332" />
+			<AnchorTime Value="128" />
+			<OtherTime Value="128" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
-				<CurrentZoom Value="0.0376621883781059832" />
+				<CurrentZoom Value="0.10582304856216275" />
 			</BeatTimeHelper>
-			<ScrollerPos X="-8252" Y="0" />
+			<ScrollerPos X="-684" Y="-307" />
 			<ClientSize X="1131" Y="496" />
 		</SequencerNavigator>
 		<IsContentSplitterOpen Value="true" />
@@ -11809,85 +11809,7 @@
 		<WaveformVerticalZoomFactor Value="1" />
 		<IsWaveformVerticalZoomActive Value="true" />
 		<Locators>
-			<Locators>
-				<Locator Id="0">
-					<LomId Value="0" />
-					<Time Value="0" />
-					<Name Value="COUNT  IN" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="1">
-					<LomId Value="0" />
-					<Time Value="8" />
-					<Name Value="INTRO" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="2">
-					<LomId Value="0" />
-					<Time Value="24" />
-					<Name Value="V1" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="3">
-					<LomId Value="0" />
-					<Time Value="56" />
-					<Name Value="V1.5" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="4">
-					<LomId Value="0" />
-					<Time Value="88" />
-					<Name Value="CHORUS 1" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="5">
-					<LomId Value="0" />
-					<Time Value="120" />
-					<Name Value="V2" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="6">
-					<LomId Value="0" />
-					<Time Value="152" />
-					<Name Value="V2.5" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="7">
-					<LomId Value="0" />
-					<Time Value="184" />
-					<Name Value="CHORUS 2" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="8">
-					<LomId Value="0" />
-					<Time Value="244" />
-					<Name Value="BRIDGE 1" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="9">
-					<LomId Value="0" />
-					<Time Value="272" />
-					<Name Value="CHORUS 3" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-				<Locator Id="10">
-					<LomId Value="0" />
-					<Time Value="332" />
-					<Name Value="OUTRO" />
-					<Annotation Value="" />
-					<IsSongStart Value="false" />
-				</Locator>
-			</Locators>
+			<Locators />
 		</Locators>
 		<DetailClipKeyMidis />
 		<TracksListWrapper LomId="0" />
@@ -11901,7 +11823,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="3" />
+		<HighlightedTrackIndex Value="6" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves />
